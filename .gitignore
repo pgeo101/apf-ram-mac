@@ -6,3 +6,5 @@ Hardware/
 *.img
 *.dmg
 *.log
+# Versioned public app downloads are intentionally tracked.
+!downloads/**/*.zip
